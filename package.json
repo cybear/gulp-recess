@@ -31,7 +31,7 @@
     "chalk": "^1.0.0",
     "gulp-util": "^3.0.0",
     "rcloader": "^0.1.2",
-    "recess": "^1.1.9",
+    "recess": "git://github.com/cybear/recess",
     "through2": "^0.6.1"
   },
   "devDependencies": {
